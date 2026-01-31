@@ -13,12 +13,12 @@ asgiref==3.11.0 ; python_version == "3.12" \
 attrs==25.4.0 ; python_version == "3.12" \
     --hash=sha256:16d5969b87f0859ef33a48b35d55ac1be6e42ae49d5e853b597db70c35c57e11 \
     --hash=sha256:adcf7e2a1fb3b36ac48d97835bb6d8ade15b8dcce26aba8bf1d14847b57a3373
-boto3==1.42.36 ; python_version == "3.12" \
-    --hash=sha256:a4eb51105c8c5d7b2bc2a9e2316e69baf69a55611275b9f189c0cf59f1aae171 \
-    --hash=sha256:e0ff6f2747bfdec63405b35ea185a7aea35239c3f4fe99e4d29368a6de9c4a84
-botocore==1.42.36 ; python_version == "3.12" \
-    --hash=sha256:2cfae4c482e5e87bd835ab4289b711490c161ba57e852c06b65a03e7c25e08eb \
-    --hash=sha256:2ebd89cc75927944e2cee51b7adce749f38e0cb269a758a6464a27f8bcca65fb
+boto3==1.42.39 ; python_version == "3.12" \
+    --hash=sha256:d03f82363314759eff7f84a27b9e6428125f89d8119e4588e8c2c1d79892c956 \
+    --hash=sha256:d9d6ce11df309707b490d2f5f785b761cfddfd6d1f665385b78c9d8ed097184b
+botocore==1.42.39 ; python_version == "3.12" \
+    --hash=sha256:0f00355050821e91a5fe6d932f7bf220f337249b752899e3e4cf6ed54326249e \
+    --hash=sha256:9e0d0fed9226449cc26fcf2bbffc0392ac698dd8378e8395ce54f3ec13f81d58
 certifi==2026.1.4 ; python_version == "3.12" \
     --hash=sha256:9943707519e4add1115f44c2bc244f782c0249876bf51b6599fee1ffbedd685c \
     --hash=sha256:ac726dd470482006e014ad384921ed6438c457018f4b3d204aea4281258b2120
